@@ -342,7 +342,7 @@ word-spacing: 3px;
     min-height:680px;
     display:flex;
     align-items:center;
-    background-image: url('/images/modist-hero.png');
+    background-image: url('../images/modist-hero.png');
     background-size:cover;
     background-position:center right;
     background-repeat:no-repeat;
@@ -621,16 +621,16 @@ word-spacing: 3px;
     transition:transform 0.4s;
 }
 .product-card-img1{
-    background-image:url(/images/blue-dress.png);
+    background-image:url(../images/blue-dress.png);
 }
 .product-card-img2{
-    background-image:url(/images/creamy-dress.png);
+    background-image:url(../images/creamy-dress.png);
 }
 .product-card-img3{
-    background-image:url(/images/flowerdress.png);
+    background-image:url(../images/flowerdress.png);
 }
 .product-card-img4{
-    background-image:url(/images/cacao-dress.png);
+    background-image:url(../images/cacao-dress.png);
 }
 
 .card-back, .product-card-img{
@@ -647,7 +647,7 @@ word-spacing: 3px;
     inset:0;
     backface-visibility:hidden;
     transition:transform 1s ease;
-    background-image:url(/images/dress1-back1.png);
+    background-image:url(../images/dress1-back1.png);
     transform:rotateY(180deg);
     padding-bottom:28px;
     border-radius:8px;
